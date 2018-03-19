@@ -7,7 +7,7 @@ Expo’s documentation: www.docs.expo.io
 
 Expo platform: www.expo.io
 
-Get started with Expo: expo.io/learn
+Get started with Expo: www.expo.io/learn
 
 Genymotion Android Emulator: www.genymotion.com
 
