@@ -2,6 +2,8 @@
 
 Link to slideshow: https://docs.google.com/presentation/d/1Nss5JjoNx_FK-UpCgRE9tB1IGKa1QNyCQhSRr3I-DK4/edit?usp=sharing
 
+**Marketing for Engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
+
 Facebook’s official documentation: www.facebook.github.io/react-native/docs
 Expo’s documentation: www.docs.expo.io
 
