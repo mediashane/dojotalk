@@ -1,5 +1,7 @@
 # dojotalk
 
+Stream of the talk: https://www.facebook.com/harentambi/videos/1859627884047199/
+
 Link to slideshow: https://docs.google.com/presentation/d/1Nss5JjoNx_FK-UpCgRE9tB1IGKa1QNyCQhSRr3I-DK4/edit?usp=sharing
 
 **Marketing for Engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
